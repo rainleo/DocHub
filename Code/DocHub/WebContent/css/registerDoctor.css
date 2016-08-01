@@ -1,0 +1,30 @@
+form
+{
+	 
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 200px;
+    margin-left: 350px;;
+width:770px;
+color:white;
+font-weight:bold;
+font-family:Monospace;
+}
+
+div.tableform label
+{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 145px;
+    text-align: left;
+    font-family:Monospace;
+}
+div.tableform td div
+{
+color:red;
+font-weight:bold;
+font-family:Monospace;
+}
+
+

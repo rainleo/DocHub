@@ -1,0 +1,108 @@
+body {
+background-image: url(images/background-doctors.jpg); /*You will specify your image path here.*/
+
+-moz-background-size: cover;
+-webkit-background-size: cover;
+background-size: cover;
+background-position: top center !important;
+background-repeat: no-repeat !important;
+background-attachment: fixed;
+}
+
+form
+{
+	margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 200px;
+ margin-left: 350px;
+width:770px;
+color:white;
+font-weight:bold;
+font-family:Monospace;
+}
+
+
+.nav 
+{
+    line-height:30px;
+    font-family:Monospace;
+    /*background-image: url(images/background-doctors.jpg);*/
+    height:450px;
+    width:150px;
+    float:left;
+    padding:5px;
+    margin-top:60px;	      
+}
+
+.menu{
+	color:white;
+	text-decoration:none;
+	display:block;
+	font-weight:bold;
+	background-color:grey;
+	text-align:center;
+	width: 150px;
+	height: 30px;
+	font-family:Monospace;
+}
+
+.for_head {
+	font-family:Monospace;
+	text-align:center;
+}
+.header {
+    /* background-image: url(images/background-doctors.jpg);*/
+    font-family:Monospace;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+.footer {
+	font-family: Monospace;
+
+    color:white;
+    clear:both;
+    text-align:left;
+   padding-bottom:30px;	 	 
+}
+
+div.docDetails
+{
+font-family: Monospace;
+color:white;
+text-align:left;
+font-size:15px;
+ }
+ 
+ div.ui-datepicker{
+ font-size:15px;
+}
+ 
+ 
+.searchBar{
+	margin-top:25px;
+	margin-right:40px;
+	height:30px;
+	width:40%;
+	font-size:20px;
+    color:white;
+    font-family: Monospace;
+}
+
+
+.box{
+    width:30px;
+    height:15px;
+    
+}
+.convText{
+    
+    font-size:20px;
+}
+
+.center
+{
+	    display: block;
+    	margin-right: 90px
+}

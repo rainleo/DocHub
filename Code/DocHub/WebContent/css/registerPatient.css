@@ -1,0 +1,84 @@
+form
+{
+	 
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 200px;
+    margin-left: 350px;;
+width:770px;
+color:white;
+font-weight:bold;
+font-family:Monospace;
+}
+
+div.tableform label
+{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 145px;
+    text-align: left;
+    font-family:Monospace;
+}
+div.tableform td div
+{
+color:red;
+font-weight:bold;
+font-family:Monospace;
+}
+
+body {
+background-image: url(images/background-doctors.jpg); /*You will specify your image path here.*/
+
+-moz-background-size: cover;
+-webkit-background-size: cover;
+background-size: cover;
+background-position: top center !important;
+background-repeat: no-repeat !important;
+background-attachment: fixed;
+}
+
+.nav 
+{
+    line-height:30px;
+    font-family:Monospace;
+    /*background-image: url(images/background-doctors.jpg);*/
+    height:450px;
+    width:150px;
+    float:left;
+    padding:5px;
+    margin-top:100px;	      
+}
+
+.menu{
+	color:white;
+	text-decoration:none;
+	display:block;
+	font-weight:bold;
+	background-color:grey;
+	text-align:center;
+	width: 150px;
+	height: 30px;
+	font-family:Monospace;
+}
+
+.for_head {
+	font-family:Monospace;
+	text-align:center;
+}
+.header {
+    /* background-image: url(images/background-doctors.jpg);*/
+    font-family:Monospace;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+.footer {
+	font-family: Monospace;
+
+    color:white;
+    clear:both;
+    text-align:center;
+   padding-bottom:30px;	 	 
+}
